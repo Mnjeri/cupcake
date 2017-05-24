@@ -1,0 +1,34 @@
+h1{
+  color:red;
+  font-style: bold;
+  font-size: 50px
+
+}
+img.intro{
+  height: 300px;
+}
+img.cake{
+  height:300px;
+}
+img.for{
+  height:300px;
+}
+body{
+  background-image: url("http://curious.stratford.edu/wp-content/uploads/2016/03/thumbnail-2e6082de9ef00d85eab6a96a71b2e691-1050x700.jpeg"); no repeat
+  background-repeat: repeat-x;
+}
+
+p.flashy{
+  font-style: italic;
+  color: red;
+}
+li.best{
+  font-size: 50px;
+  color: #33ff33;
+}
+li{
+  color:white;
+}
+p{
+  color:white;
+}
